@@ -78,7 +78,7 @@ I'm a full-stack developer. I design, build and launch full products, from the d
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Cloud, hosting and deployment**
-![AWS](https://img.shields.io/badge/AWS_S3_%26_CloudFront-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_%26_CloudFront-232F3E?style=flat-square&logo=amazons3&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
