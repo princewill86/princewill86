@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Princewill%20Pius&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer | Product Builder&descAlignY=58&descSize=16" alt="Princewill Pius" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Princewill%20Pius&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=16" alt="Princewill Pius" />
 
 **I build web, mobile and blockchain products, and I run a portfolio of them through [SmartDesigns](https://smartdesigns.com.ng).**
 
