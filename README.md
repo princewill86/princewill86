@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a full-stack developer. I design, build and launch full products, from the database to the interface, and I lead the small teams that keep them running. I care about products that make money and hold up under real traffic.
+I'm a full-stack developer. I design, build and launch full products, from the database to the interface, and I lead the small teams that keep them running. I treat every product as a business. That means clean architecture, reliable payments and infrastructure that doesn’t buckle when traffic grows.
 
 ## Services
 
